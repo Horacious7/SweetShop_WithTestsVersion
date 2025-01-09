@@ -41,9 +41,10 @@ Before you begin, ensure you have the following installed:
    ```
 3. Open the project in your IDE.
 4. Add the required dependencies, including the testing framework used for coverage.
-5. Modify the storage option:
+5. Change in the Main.java the correct path for storage.properties
+6. Modify the storage option:
    - Open the configuration file (located in the project directory).
-   - Choose between binary or text storage by editing the configuration.
+   - Choose between binary or text storage by editing the configuration in settings.properties.
 
 ### Usage
 
