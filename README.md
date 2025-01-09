@@ -1,4 +1,4 @@
-# Sweetshop App (Terminal Version)
+# Sweetshop App (Terminal Version with Tests)
 
 Sweetshop App is a terminal-based application designed to manage a sweetshop's inventory and orders without a graphical user interface (GUI). The application allows users to perform various operations such as adding, viewing, and filtering birthday cakes and orders. It also includes functionalities for calculating order counts and total amounts by customer.
 
